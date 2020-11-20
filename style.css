@@ -1,0 +1,61 @@
+.div {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    text-align: center;
+}
+.ikona1 {
+    margin-top: 20px
+}
+.ikona2 {
+    margin-top: 20px;
+    font-size: 50px;
+}
+.menu {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+.tekst {
+    text-align: center;
+    margin-left: 35%;
+}
+.tekst2 {
+    text-align: center;
+}
+.bcg {
+    background-color: red;
+}
+.div4 {
+    background-color: brown;
+    width: 100%;
+    height: 500px;
+}
+.costam {
+    padding: 30px;
+    color: white;
+}
+.xd2{
+    background-color: rgb(122, 21, 21);
+    padding: 10px;
+    float: right;
+    margin-top: -390px;
+}
+.xd{
+    background-color: rgb(122, 21, 21);
+    padding : 10px;
+}
+.xd3{
+    padding-top: 50px;
+}
+.bonusbgc{
+    background-color: rgb(49, 19, 19);
+      padding-left: 100px;
+      padding-right: 100px;
+      height: 800px;
+      color: white;
+}
+.cose {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-row-gap:1px;
+}
